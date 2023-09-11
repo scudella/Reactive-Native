@@ -25,6 +25,7 @@ const MealsOverviewScreen = ({ route, navigation }) => {
 
     return (
       <MealItem
+        id={item.id}
         title={item.title}
         imageUrl={item.imageUrl}
         duration={item.duration}
