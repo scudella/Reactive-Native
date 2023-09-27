@@ -30,6 +30,12 @@
         {
           "cameraPermission": "The app needs access to your camera in order to take photos of your favorite places."
         }
+      ],
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Allow React Native App to use your location."
+        }
       ]
     ]
   }

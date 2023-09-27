@@ -3,6 +3,10 @@
 # dependencies
 node_modules/
 
+.env.local
+.env.production
+.env
+
 # Expo
 .expo/
 dist/
